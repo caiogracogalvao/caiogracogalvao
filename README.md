@@ -1,54 +1,79 @@
-# 👋 Hi there, I'm Caio Graco!
+<h1 align="center">Hi, I'm Caio 👋</h1>
 
-- 🎓 Bachelor of Law.
-- 💻 Passionate about technology and programming.
-- 🌱 Currently studying Information Technology.
-- 🚀 Always learning.
-
----
-
-# 🛠️ Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=900&lines=Bachelor+of+Law;Information+Technology+Student;Passionate+about+Technology;Always+learning+new+things" />
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=caiogracogalvao&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogracogalvao&layout=compact&theme=github_dark&hide_border=true" 
-  />
-</p>
-
----
-
-# 🌐 Connect with me
-
-
-  <a href="https://www.instagram.com/caiogracogalvao/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="mailto:caiogracogalvao@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" width="450px">
 </p>
 
-> "Code. Learn. Build. Repeat." ✨
+---
+
+# 👨‍💻 About Me
+
+```yaml
+- 🎓 Bachelor of Law.
+- 💻 Passionate about technology and programming.
+- 🌱 Currently studying Information Technology.
+- 🚀 Always learning and building projects.
+- 🎮 Gaming enthusiast.
+- 🎧 Music lover.
+- 📚 Constantly exploring new technologies.
+- ☕ Coffee and coding enjoyer.
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=caiogracogalvao&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🌎 Connect with me
+
+  <a href="mailto:caiogracogalvao@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://instagram.com/caiogracogalvao/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+ <a href="https://discord.com/users/caioggcruz" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caiogracogalvao&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i> ✨
+</p>
