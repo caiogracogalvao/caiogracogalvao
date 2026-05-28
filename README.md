@@ -20,7 +20,7 @@
 - 🎮 Gaming enthusiast.
 - 🎧 Music lover.
 - 📚 Constantly exploring new technologies.
-- ☕ Coffee and coding enjoyer.
+- ☕ Coding enjoyer.
 ```
 
 ---
