@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Caio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=900&lines=Bachelor+of+Law;Information+Technology+Student;Passionate+about+Technology;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=900&lines=Lawyer;Information+Technology+Student;Passionate+about+Technology;Always+learning+new+things" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 ```yaml
-- 🎓 Bachelor of Law.
+- 🎓 Bachelor of Law | Lawyer.
 - 💻 Passionate about technology and programming.
 - 🌱 Currently studying Information Technology.
 - 🚀 Always learning and building projects.
